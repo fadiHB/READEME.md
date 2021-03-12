@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[ASAC-LTUC](https://github.com/LTUC)__.
+<!--- I’m currently working at __[ASAC-LTUC](https://github.com/LTUC)__. -->
 - I’m currently learning __Djangox__, __React__,
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
