@@ -1,61 +1,30 @@
-<!-- Your title -->
-## Hello, I'm Fadi!
-
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/fadiHB)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhd-fadi-habboubati/)
-
-&nbsp;
-
-<!-- Talking about you -->
-**About Me:**
-
-<!--- I’m currently working at __[ASAC-LTUC](https://github.com/LTUC)__. -->
-- I’m currently learning __Djangox__, __React__,
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __eng.fadi.hb@gmail.com__
-
----
-
-**Languages and Tools:**
-
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-
+<p align="center" >
   
-  <code><img width="15%" height="75px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/1120bad531c928642d2ee49942be079a9fb0519b/icons/file_type_pip.svg">
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code></code>  
-  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"></code>
+![Thamudis' Stats](https://github-readme-stats.vercel.app/api?username=fadiHB&show_icons=true&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadiHB&layout=compact&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true)]
+
 </p>
 
----
+<p align="center">
+  <img src = "https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat&logo=python&logoColor=ffffff">
+  <img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery%20-%230769AD.svg?style=flat&logo=jquery&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=00c8ff">
+  <img src="https://img.shields.io/badge/react-%2314354C.svg?style=flat&logo=react&logoColor=00c8ff">
+  <br>
+    <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+    <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+  <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/numpy-%2314354C.svg?style=flat&logo=numpy&logoColor=pink">
+    <img src="https://img.shields.io/badge/django-%2314354C.svg?style=flat&logo=django&logoColor=green">
+    <img src="https://img.shields.io/badge/docker-%2314354C.svg?style=flat&logo=docker&logoColor=blue">
+    <img src="https://img.shields.io/badge/Arch-%2314354C.svg?style=flat&logo=arch-linux&logoColor=blue">
 
 
-<a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=fadiHB&show_icons=true&hide_border=true" />
-</a>
+</p>
 
------
+
+![](https://img.shields.io/badge/Instructor-Node-informational?style=flat&logo=node.jslogoColor=white&color=025800)
+![](https://img.shields.io/badge/Instructor-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1c)
