@@ -26,5 +26,3 @@
 </p>
 
 
-![](https://img.shields.io/badge/Instructor-Node-informational?style=flat&logo=node.jslogoColor=white&color=025800)
-![](https://img.shields.io/badge/Instructor-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1c)
