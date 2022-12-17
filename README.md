@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/django-%2314354C.svg?style=flat&logo=django&logoColor=green">
     <img src="https://img.shields.io/badge/docker-%2314354C.svg?style=flat&logo=docker&logoColor=blue">
     <img src="https://img.shields.io/badge/Arch-%2314354C.svg?style=flat&logo=arch-linux&logoColor=blue">
+  <img src="https://img.shields.io/badge/dotnet-430098.svg?style=flat&logo=.NET&logoColor=#512BD4">
 
 
 </p>
