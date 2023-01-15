@@ -20,9 +20,9 @@
     <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
     <img src="http://img.shields.io/badge/-Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white">
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-%2314354C.svg?style=flat&logo=numpy&logoColor=pink">
-    <img src="https://img.shields.io/badge/django-%2314354C.svg?style=flat&logo=django&logoColor=green">
-    <img src="https://img.shields.io/badge/docker-%2314354C.svg?style=flat&logo=docker&logoColor=blue">
+    <img src="https://img.shields.io/badge/Numpy-%2314354C.svg?style=flat&logo=numpy&logoColor=pink">
+    <img src="https://img.shields.io/badge/Django-%2314354C.svg?style=flat&logo=django&logoColor=green">
+    <img src="https://img.shields.io/badge/Docker-%2314354C.svg?style=flat&logo=docker&logoColor=blue">
     <img src="https://img.shields.io/badge/Arch-%2314354C.svg?style=flat&logo=arch-linux&logoColor=blue">
   <img src="https://img.shields.io/badge/dotnet-430098.svg?style=flat&logo=.NET&logoColor=#512BD4">
 
