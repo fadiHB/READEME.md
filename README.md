@@ -1,6 +1,6 @@
 <p align="center" >
   
-![Thamudis' Stats](https://github-readme-stats.vercel.app/api?username=fadihboubati&show_icons=true&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihboubati&layout=compact&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true)
+<!-- ![Thamudis' Stats](https://github-readme-stats.vercel.app/api?username=fadihboubati&show_icons=true&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihboubati&layout=compact&title_color=00c8ff&text_color=f5f5f5&bg_color=1a1c1d&icon_color=00c8ff&hide_border=true) -->
 
 </p>
 
